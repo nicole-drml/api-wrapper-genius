@@ -5,6 +5,8 @@ Rails.application.routes.draw do
   # root "articles#index"
 
     namespace :api do
-      get '/artists', to: 'artists#index '
+      get '/album', to: 'search#album'
+      get '/artist', to: 'search#artist'
+      get '/track', to: 'search#track'
     end
 end

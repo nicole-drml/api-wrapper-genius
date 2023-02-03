@@ -1,6 +1,6 @@
 module Spotify
     class Request
-        TOKEN = 'Bearer BQDzadDR3J5iRmSEAHyX2EeBEd8S8dYNdJ7cijeM5Z9lJWEk0o7t0wAaxL_thKs_D4pZDUo4C9wBxyhcEiFw_RnE1HcrLL4tHOC3rc7jKoEEBrsl92oTDDpn2D1Fh3H3HrUmE6bjLDnPWwbYR_Et6ROved9hV-M8WEhmX4hq4pHFfIZmocv3HH0'
+        TOKEN = 'Bearer BQAPP0pXg82yNHDVwd_biv8_UDHIk63LpTEgn_m837IcSd8nWCjamHFP_ylMJNcrFYZtirJO5b6Ewezf1dSzV7QqpYQ4OiXoIv-di6q8Q4nLsROQ4IJDEygRgLPMLxwaJEPFMhj9dPO3oluamxUahsknavakMRRKOSwBEsAc_QgaaIlxq8rplNg'
         BASE_URL = 'https://api.spotify.com/v1/search'
 
         def self.call(endpoint, query)
