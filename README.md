@@ -8,15 +8,16 @@ url: ```api/<endpoint>?<query>```
 
 **Example Query** <br>
 
-• Album
+• Album <br>
 ![URL Album](./app/assets/images/url_album.png)
 
-• Track
+• Track<br>
+
 Note: replace spaces with ```%20``` <br>
 
-❌ incorrect: 
+❌ incorrect: <br>
 ![URL Incorrect Track](./app/assets/images/url_track_with_space.png) <br>
-✅ correct: 
+✅ correct:  <br>
 ![URL Track](./app/assets/images/url_track.png) <br>
  
 **Album Query Results** <br>
