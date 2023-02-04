@@ -9,7 +9,7 @@ url: ```api/<endpoint>?<query>```
 **Example Query** <br>
 ![URL Album](./app/assets/images/url_album.png)
 
-Note: replace spaces with ```%20```
+Note: replace spaces with ```%20``` <br>
 
 **Example query** <br>
 ❌ incorrect: <br>
