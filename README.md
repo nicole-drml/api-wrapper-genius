@@ -1,6 +1,6 @@
 **Spotify API Wrapper**
 
-Available Endpoints:
+Available Endpoints: <br>
 **• album** <br>
 **• track**
 
