@@ -6,7 +6,7 @@ Available Endpoints:
 
 url: api/<endpoint>?<query>
 
-Example query
+Example query <br>
 ![URL Album](./app/assets/images/url_album.png)
 
 Note: replace spaces with "%20"
