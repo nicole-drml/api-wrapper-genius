@@ -1,8 +1,8 @@
 **Spotify API Wrapper**
 
 Available Endpoints:
-**album**
-**track**
+**• album** <br>
+**• track**
 
 url: ```api/<endpoint>?<query>```
 
