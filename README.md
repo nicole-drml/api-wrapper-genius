@@ -4,8 +4,8 @@ Available Endpoints: <br>
 **• album** <br>
 **• track**
 
-url: ```api/<endpoint>?<query>``` <br>
-Note: replace spaces with ```%20``` <br>
+URL: ```api/<endpoint>?<query>``` <br>
+Note: replace query ```spaces``` with ```%20``` <br>
 
 **Example Queries** <br>
 
