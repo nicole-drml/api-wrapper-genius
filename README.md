@@ -4,16 +4,15 @@ Available Endpoints: <br>
 **• album** <br>
 **• track**
 
-url: ```api/<endpoint>?<query>```
+url: ```api/<endpoint>?<query>``` <br>
+Note: replace spaces with ```%20``` <br>
 
-**Example Query** <br>
+**Example Queries** <br>
 
 • Album <br>
 ![URL Album](./app/assets/images/url_album.png)
 
 • Track<br>
-
-Note: replace spaces with ```%20``` <br>
 
 ❌ incorrect: <br>
 ![URL Incorrect Track](./app/assets/images/url_track_with_space.png) <br>
